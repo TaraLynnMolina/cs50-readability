@@ -1,2 +1,2 @@
 # cs50-readability
-CS50x Problem Set 2 - Readability
+Developed a C program that analyzes text and outputs its U.S. grade level using the Coleman-Liau index (CS50x Readability).
